@@ -6,11 +6,8 @@
 	
 }
 body{
-	/* display:flex; */
-	/* justify-content:center; */
 	background-color:#f8f8f8;
-	/* border:5px solid black; */
-	padding:20px;
+	/* padding:0px; */
 	margin:10px;
 	
 }
@@ -22,7 +19,6 @@ body{
 	
 	align-items:center;
 	widht:100%;
-    /* border:2px solid black; */
 	padding:40px;
 	margin:20px;
 	background-color:#ffffff;
@@ -60,9 +56,10 @@ h1{
 	color:#2ecc71;
 }
 #heading{
+	align-items:center;
+	widht:100%;
+	padding:20px;
+	margin:20px;
 	background-color:#ffffff;
-	padding:10px;
-	margin-left:20px;
-	margin-right:20px;
-	
+}
 }
