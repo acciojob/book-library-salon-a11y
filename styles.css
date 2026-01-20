@@ -12,13 +12,14 @@ body{
 	
 }
 .book-library{
-	width:100%;
-	max-width:900px;
+	width:70%;
+	/* max-width:900px; */
 }
 .book{
 	
 	align-items:center;
-	widht:100%;
+	/* widht:0%; */
+	/* height:500px; */
 	padding:40px;
 	margin:20px;
 	background-color:#ffffff;
@@ -48,6 +49,7 @@ h1{
     display: block;
     margin: 10px auto;
     width: 200px;
+	height:200px;
 }
 .book p{
 	color:#777777;
@@ -57,7 +59,7 @@ h1{
 }
 #heading{
 	align-items:center;
-	widht:100%;
+	width:60%;
 	padding:20px;
 	margin:20px;
 	background-color:#ffffff;
